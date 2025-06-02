@@ -58,4 +58,3 @@ To develop a predictive model that classifies employees into two categories:
 
 - The model successfully predicts employee attrition with good accuracy.
 - Helps organizations in identifying at-risk employees early.
-- The dashboard supports HR teams with visual insights for decision-making.
