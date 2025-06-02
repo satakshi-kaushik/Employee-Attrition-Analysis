@@ -14,7 +14,7 @@ To develop a predictive model that classifies employees into two categories:
 ## Tools & Technologies Used
 
 - **Python**
-- **Pandas**, **NumPy**
+- **Pandas**
 - **Scikit-learn**
 - **Matplotlib**, **Seaborn**
 - **Jupyter Notebook**
@@ -39,7 +39,7 @@ To develop a predictive model that classifies employees into two categories:
 
 - Visualized distributions of key features
 - Analyzed correlations between features and attrition
-- Identified patterns (e.g., employees working overtime or with low job satisfaction are more likely to leave)
+- Identified patterns (e.g., employees with low tenure or with low job satisfaction are more likely to leave)
 
 ## Model Building
 
